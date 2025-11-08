@@ -61,8 +61,11 @@ The system operates in two stages:
 ## 🖼️ Tool Interface
 
 The interface provides options to:
+
 1.Upload old LinkedIn posts
+
 2.Select post topic, tone, and length
+
 3.Generate new posts instantly in your own writing style
 
 ## 🙏 Thank You
